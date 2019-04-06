@@ -1,0 +1,24 @@
+/*Stories header*/
+#stories-header {
+	text-align: center;
+	text-transform: uppercase;
+	margin: 3% auto;
+}
+
+#stories-header h1 {
+	font-size: 20px;
+    letter-spacing: 3px;
+    margin-bottom: 9px;
+}
+
+/*Stories*/
+.card {
+	margin-top: 5%;
+}
+
+/*Footer*/
+footer{
+	margin-top: 3%;
+	background-color: blue;
+	text-align: center;
+}
