@@ -1,16 +1,25 @@
+/*Navbar*/
+#center-nav {
+    margin: auto;
+    text-transform: uppercase;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2em;
+}
+
+
 /*Stories header*/
 #stories-header {
 	text-align: center;
 	text-transform: uppercase;
 	margin: 3% auto;
 }
-
+/*
 #stories-header h1 {
 	font-size: 20px;
     letter-spacing: 3px;
     margin-bottom: 9px;
 }
-
+*/
 /*Stories*/
 .card {
 	margin-top: 5%;
@@ -19,6 +28,18 @@
 /*Footer*/
 footer{
 	margin-top: 3%;
-	background-color: blue;
+	padding: 2em; 
+	background-color: #000;
 	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+footer h2 {
+	font-family: 'Abril Fatface', cursive;
+}
+
+.fab {
+	/*padding-right: 1em;*/
+	padding: 2% 1%;
 }
