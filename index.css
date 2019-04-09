@@ -24,6 +24,7 @@
 	/*Stories*/
 .card {
 	margin-top: 5%;
+	border: none !important;
 }
 
 .card-text {
