@@ -46,8 +46,8 @@
 }
 
 .card-text {
-	font-family: 'Crimson Text', serif;
-	font-size: 1.2rem;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.1rem;
 }
 
 /*Footer*/
@@ -62,6 +62,7 @@ footer{
 
 footer h2 {
 	font-family: 'Abril Fatface', cursive;
+	letter-spacing: 0.1em;
 }
 
 .fab {
