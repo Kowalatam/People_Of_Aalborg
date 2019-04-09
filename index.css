@@ -48,6 +48,7 @@
 .card-text {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1.1rem;
+	text-align: justify;
 }
 
 /*Footer*/
