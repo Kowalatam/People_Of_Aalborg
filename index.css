@@ -1,11 +1,29 @@
 /*Navbar*/
-#center-nav {
+/*#center-nav {
     margin: auto;
     text-transform: uppercase;
     font-family: 'Abril Fatface', cursive;
     font-size: 2em;
+}*/
+
+/*Header*/
+#header{
+	background-image: url(images/Header.png);
+	background-size: cover;
+	height: 100vh;
 }
 
+#header h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2.5em;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	letter-spacing: 0.2em;
+}
 
 /*Main*/
 #stories-header {
@@ -18,7 +36,7 @@
 	font-family: 'Playfair Display', serif;
 	font-weight: 700;
 	/*font-style: italic;*/
-	letter-spacing: 0.2em;
+	letter-spacing: 0.3em;
 }
 
 	/*Stories*/
